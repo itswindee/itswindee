@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif)" width="100"/>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itswindee)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there, I'm Emily Zhu 👋
 
