@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itswindee)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itswindee&show_icons=true&theme=radical)
 
 ### Hi there, I'm Emily Zhu 👋
 
