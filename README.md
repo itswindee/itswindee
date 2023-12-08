@@ -76,7 +76,6 @@
 
 <!-- extra spaces -->
 <p>&nbsp</p>
-<p>&nbsp</p>
 
 <!-- language stats -->
 <div align="center">
