@@ -43,7 +43,7 @@
 <!-- skills -->
 ### programming languages:
 <p align="center"> 
-   <img src="https://github.com/itswindee/itswindee/assets/113081325/e30f6882-8cec-47f8-88df-e8e71a620bb0" alt="java" height="50" width="50" /> 
+   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://github.com/itswindee/itswindee/assets/113081325/e30f6882-8cec-47f8-88df-e8e71a620bb0" alt="java" height="50" width="50" /> 
   <img src="https://github.com/itswindee/itswindee/assets/113081325/e5f3b701-c3ef-4765-8a27-bcf89f984957" alt="python" height="50" width="50" /> 
   <img src="https://github.com/itswindee/itswindee/assets/113081325/d4924fff-cf1b-4492-821b-33eb6bd34830" alt="html" height="50" width="50" /> 
   <img src="https://github.com/itswindee/itswindee/assets/113081325/2e2c7a74-aa2e-4d7e-8ea7-f34c7ebd82d7" alt="css" height="50" width="50" /> 
