@@ -41,17 +41,37 @@
 <p>&nbsp</p>
 
 ### programming languages:
-  <img src="https://github.com/itswindee/itswindee/assets/113081325/e30f6882-8cec-47f8-88df-e8e71a620bb0" alt="java" height="50" width="50" /> 
+<p align="center"> 
+   <img src="https://github.com/itswindee/itswindee/assets/113081325/e30f6882-8cec-47f8-88df-e8e71a620bb0" alt="java" height="50" width="50" /> 
   <img src="https://github.com/itswindee/itswindee/assets/113081325/e5f3b701-c3ef-4765-8a27-bcf89f984957" alt="python" height="50" width="50" /> 
   <img src="https://github.com/itswindee/itswindee/assets/113081325/d4924fff-cf1b-4492-821b-33eb6bd34830" alt="html" height="50" width="50" /> 
   <img src="https://github.com/itswindee/itswindee/assets/113081325/2e2c7a74-aa2e-4d7e-8ea7-f34c7ebd82d7" alt="css" height="50" width="50" /> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="Skills/javascript.png" width="50" height="50" alt="JavaScript" /></a>
   <img src="https://github.com/itswindee/itswindee/assets/113081325/f6650ff4-b077-4af8-905a-7ce6d2b2f7b0)" alt="r programming" height="50" width="50" /> 
   <img src="Skills/sql.png" alt="sql" height="50" width="40" /> 
-  
-  
-  
-  
+  <img src="Skills/gdscript.png" alt="gdscript" height="50" width="50" /> 
+</p>
+ 
+### developer tools:
+<p align="center">
+  <img src="Skills/godot.png" alt="godot" height="50" width="50" /> 
+  <img src="Skills/react.png" alt="react" height="50" width="50" /> 
+  <img src="Skills/nextjs.svg" alt="nextjs" height="50" width="50" /> 
+  <img src="Skills/tailwindcss.png" alt="tailwindcss" height="50" width="50" /> 
+  <img src="Skills/bootstrap.png" alt="bootstrap" height="50" width="50" /> 
+  <img src="Skills/nodejs.png" alt="nodejs" height="50" width="50" /> 
+</p>
+
+### applications:
+<p align="center">
+  <img src="Skills/after effects.png" alt="after effects" height="50" width="50" /> 
+  <img src="Skills/premierpro.png" alt="premier pro" height="50" width="50" /> 
+  <img src="Skills/photoshop.png" alt="photoshop" height="50" width="50" /> 
+  <img src="Skills/figma-1-logo-svg-vector.svg" alt="figma" height="50" width="50" /> 
+  <img src="https://github.com/itswindee/itswindee/assets/113081325/c9aa0d9d-f288-41ae-ad24-4e99bbc16704" alt="figma" height="50" width="50" /> 
+</p>
+
+
 
 
 <p align="left">
