@@ -27,7 +27,7 @@
 
  - 🍙 current working on: web development bootcamp
  - 🍣 interested in: frontend development, data science, cybersecurity & ui/ux design
- - 🍥 mostly into web development, but also a bit of everything else our world offers 💙
+ - 🍥 mostly into web development, but also a bit of everything else 💙
  - 🍱 i love to explore new things and build amazing stuff ✈️
  - 💬 ask me about anything!
 
