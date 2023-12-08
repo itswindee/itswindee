@@ -13,6 +13,8 @@
   <h5 align="center">
    <i> 🌟 a winner is just a loser who tried one more time. 🌟 </i>
   </h5>
+
+
  
 <!-- gif -->
 <br />
@@ -26,16 +28,28 @@
  - 🍙 current working on: web development bootcamp
  - 🍣 interested in: front-end development, data science, cybersecurity & ui/ux design
  - 🍥 mostly into web development, but also a bit of everything else our world offers 💙
- - 🍱 here to enjoy life and everlasting learning ✈️
+ - 🍱 i love to explore new things and build amazing stuff ✈️
  - 💬 ask me about anything!
 
  <p align="center">
   <h4> software developer | gamer | esports | coach | musician  </h4>
    </p>
 
+<!-- extra spaces -->
+<p>&nbsp</p>
+<p>&nbsp</p>
+<p>&nbsp</p>
+
+
 <p align="left">
   <a href="https://github.com/itswindee/github-readme-stats"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=itswindee&layout=donut-vertical"/></a>
 </p>
-      
+
+
+
+
+
+
+
 
 
