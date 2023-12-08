@@ -45,9 +45,9 @@
   <img src="https://github.com/itswindee/itswindee/assets/113081325/e5f3b701-c3ef-4765-8a27-bcf89f984957" alt="python" height="50" width="50" /> 
   <img src="https://github.com/itswindee/itswindee/assets/113081325/d4924fff-cf1b-4492-821b-33eb6bd34830" alt="html" height="50" width="50" /> 
   <img src="https://github.com/itswindee/itswindee/assets/113081325/2e2c7a74-aa2e-4d7e-8ea7-f34c7ebd82d7" alt="css" height="50" width="50" /> 
-  <img src="" alt="javascript" height="50" width="50" /> 
+  <img src="Skills/javascript" alt="javascript" height="50" width="50" /> 
   <img src="https://github.com/itswindee/itswindee/assets/113081325/f6650ff4-b077-4af8-905a-7ce6d2b2f7b0)" alt="r programming" height="50" width="50" /> 
-  <img src="" alt="sql" height="50" width="50" /> 
+  <img src="Skills/sql" alt="sql" height="50" width="50" /> 
   <img src="https://github.com/itswindee/itswindee/assets/113081325/f6650ff4-b077-4af8-905a-7ce6d2b2f7b0)" alt="r programming" height="50" width="50" />
   
   
