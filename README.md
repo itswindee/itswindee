@@ -40,6 +40,7 @@
 <p>&nbsp</p>
 <p>&nbsp</p>
 
+<!-- skills -->
 ### programming languages:
 <p align="center"> 
    <img src="https://github.com/itswindee/itswindee/assets/113081325/e30f6882-8cec-47f8-88df-e8e71a620bb0" alt="java" height="50" width="50" /> 
@@ -56,10 +57,10 @@
 <p align="center">
   <img src="Skills/godot.png" alt="godot" height="50" width="50" /> 
   <img src="Skills/react.png" alt="react" height="50" width="50" /> 
-  <img src="Skills/nextjs.svg" alt="nextjs" height="50" width="50" /> 
-  <img src="Skills/tailwindcss.png" alt="tailwindcss" height="50" width="50" /> 
-  <img src="Skills/bootstrap.png" alt="bootstrap" height="50" width="50" /> 
-  <img src="Skills/nodejs.png" alt="nodejs" height="50" width="50" /> 
+  <img src="Skills/nextjs.svg" alt="nextjs" height="45" width="45" /> 
+  <img src="Skills/tailwindcss.png" alt="tailwindcss" height="40" width="50" /> 
+  <img src="Skills/bootstrap.png" alt="bootstrap" height="40" width="50" /> 
+  <img src="Skills/nodejs.png" alt="nodejs" height="45" width="45" /> 
 </p>
 
 ### applications:
@@ -67,16 +68,20 @@
   <img src="Skills/after effects.png" alt="after effects" height="50" width="50" /> 
   <img src="Skills/premierpro.png" alt="premier pro" height="50" width="50" /> 
   <img src="Skills/photoshop.png" alt="photoshop" height="50" width="50" /> 
-  <img src="Skills/figma-1-logo-svg-vector.svg" alt="figma" height="50" width="50" /> 
-  <img src="https://github.com/itswindee/itswindee/assets/113081325/c9aa0d9d-f288-41ae-ad24-4e99bbc16704" alt="figma" height="50" width="50" /> 
+  <img src="Skills/figma-1-logo-svg-vector.svg" alt="figma" height="40" width="40" /> 
+  <img src="https://github.com/itswindee/itswindee/assets/113081325/c9aa0d9d-f288-41ae-ad24-4e99bbc16704" alt="figma" height="45" width="45" /> 
 </p>
 
 
 
+<!-- extra spaces -->
+<p>&nbsp</p>
+<p>&nbsp</p>
 
-<p align="left">
-  <a href="https://github.com/itswindee/github-readme-stats"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=itswindee&layout=donut-vertical"/></a>
-</p>
+<!-- language stats -->
+<div align="center">
+  <a href="https://github.com/itswindee/github-readme-stats"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=itswindee&layout=compact"/></a>
+</div>
 
 
 
