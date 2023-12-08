@@ -22,7 +22,7 @@
 
 <!-- about me -->
 <p align="center">
-  <h3> i'm 21 years old software enginner from atlanta, ga.</h3>
+  <h3> i'm 21 years old software enginner from atlanta, ga</h3>
 </p>
 
  - 🍙 current working on: web development bootcamp
@@ -40,10 +40,32 @@
 <p>&nbsp</p>
 <p>&nbsp</p>
 
+### programming languages:
+  <img src="https://github.com/itswindee/itswindee/assets/113081325/e30f6882-8cec-47f8-88df-e8e71a620bb0" alt="java" height="50" width="50" /> 
+  <img src="https://github.com/itswindee/itswindee/assets/113081325/e5f3b701-c3ef-4765-8a27-bcf89f984957" alt="python" height="50" width="50" /> 
+  <img src="https://github.com/itswindee/itswindee/assets/113081325/d4924fff-cf1b-4492-821b-33eb6bd34830" alt="html" height="50" width="50" /> 
+  <img src="https://github.com/itswindee/itswindee/assets/113081325/2e2c7a74-aa2e-4d7e-8ea7-f34c7ebd82d7" alt="css" height="50" width="50" /> 
+  <img src="" alt="javascript" height="50" width="50" /> 
+  <img src="https://github.com/itswindee/itswindee/assets/113081325/f6650ff4-b077-4af8-905a-7ce6d2b2f7b0)" alt="r programming" height="50" width="50" /> 
+  <img src="" alt="sql" height="50" width="50" /> 
+  <img src="https://github.com/itswindee/itswindee/assets/113081325/f6650ff4-b077-4af8-905a-7ce6d2b2f7b0)" alt="r programming" height="50" width="50" />
+  
+  
+  
+  
+
 
 <p align="left">
   <a href="https://github.com/itswindee/github-readme-stats"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=itswindee&layout=donut-vertical"/></a>
 </p>
+
+
+
+
+
+
+
+
 
 
 
