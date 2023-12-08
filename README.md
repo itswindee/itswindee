@@ -1,28 +1,41 @@
-<h2> Hi, I'm Emily! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://www.kennesaw.edu/">Kennesaw State University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</em></p>
+<!-- my introduction -->
+<div align="center">
+  <h1> hi, i'm emily! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+</div>
 
-[![Linkedin: emilyxzhu](https://img.shields.io/badge/-emilyxzhu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilyxzhu/)](https://www.linkedin.com/in/emilyxzhu/)
+<!-- my linkedln and spotify link -->
+  <p align='center'>
+   <a href="https://www.linkedin.com/in/emilyxzhu/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://open.spotify.com/user/kyungiii?si=c65c9b1807ab40c5"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
+  </p>
+
+<!-- quote -->
+  <h5 align="center">
+   <i> 🌟 a winner is just a loser who tried one more time. 🌟 </i>
+  </h5>
+ 
+<!-- gif -->
+<br />
+<img align="right" height="300px" width="300px" alt="GIF" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" />
+
+<!-- about me -->
+<p align="center">
+  <h3> i'm 21 years old software enginner from atlanta, ga.</h3>
+</p>
+
+ - 🍙 current working on: web development bootcamp
+ - 🍣 interested in: front-end development, data science, cybersecurity & ui/ux design
+ - 🍥 mostly into web development, but also a bit of everything else our world offers 💙
+ - 🍱 here to enjoy life and everlasting learning ✈️
+ - 💬 ask me about anything!
+
+ <p align="center">
+  <h4> software developer | gamer | esports | coach | musician  </h4>
+   </p>
+
+<p align="left">
+  <a href="https://github.com/itswindee/github-readme-stats"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=itswindee&layout=donut-vertical"/></a>
+</p>
+      
 
 
-
-🔭 I’m currently working on a web development bootcamp!
-💬 Ask me about anything!
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itswindee&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-<!--
-**itswindee/itswindee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-- 📫 How to reach me:
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
