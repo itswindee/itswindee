@@ -61,6 +61,8 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="Skills/tailwindcss.png" alt="tailwindcss" height="40" width="50" /> 
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="Skills/bootstrap.png" alt="bootstrap" height="40" width="50" /> 
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="Skills/nodejs.png" alt="nodejs" height="45" width="45" /> 
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="Skills/vs.svg" alt="visual studio" height="45" width="45" />
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="Skills/vsc.svg" alt="visual studio code" height="45" width="45" />
 </p>
 
 ### applications:
