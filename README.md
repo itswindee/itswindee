@@ -51,6 +51,7 @@
   <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"><img src="https://github.com/itswindee/itswindee/assets/113081325/f6650ff4-b077-4af8-905a-7ce6d2b2f7b0)" alt="r programming" height="50" width="50" /> 
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"><img src="Skills/sql.png" alt="sql" height="50" width="40" /> 
   <a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html" target="_blank" rel="noreferrer"><img src="Skills/gdscript.png" alt="gdscript" height="50" width="50" /> 
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src=
 </p>
  
 ### developer tools:
