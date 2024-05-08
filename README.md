@@ -22,7 +22,7 @@
 
 <!-- about me -->
 <p align="center">
-  <h3> i'm 21 years old software engineer from atlanta, ga</h3>
+  <h3> i'm 21 years old software developer from atlanta, ga</h3>
 </p>
 
  - 🍙 current working on: web development bootcamp
