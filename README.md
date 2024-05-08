@@ -14,8 +14,6 @@
    <i> 🌟 a winner is just a loser who tried one more time. 🌟 </i>
   </h5>
 
-
- 
 <!-- gif -->
 <br />
 <img align="right" height="300px" width="300px" alt="GIF" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" />
@@ -27,7 +25,7 @@
 
  - 🍙 current working on: web development bootcamp
  - 🍣 interested in: full stack development, data science, & information technology
- - 🍥 currently obsessed with web development, but also have a bit of knowledge in everything else 💙
+ - 🍥 currently obsessed with web development 💙
  - 🍱 i love to learn new things and build amazing stuff ✈️
  - 💬 ask me about anything!
 
@@ -75,8 +73,6 @@
   <a href="https://figma.com/" target="_blank" rel="noreferrer"><img src="Skills/figma-1-logo-svg-vector.svg" alt="figma" height="40" width="40" /> 
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://github.com/itswindee/itswindee/assets/113081325/c9aa0d9d-f288-41ae-ad24-4e99bbc16704" alt="excel" height="45" width="45" /> 
 </p>
-
-
 
 <!-- extra spaces -->
 <p>&nbsp</p>
