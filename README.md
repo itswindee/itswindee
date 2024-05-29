@@ -56,19 +56,14 @@
 <p align="center">
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="Skills/godot.png" alt="godot" height="50" width="50" /> 
   <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="Skills/react.png" alt="react" height="50" width="50" /> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="Skills/nextjs.svg" alt="nextjs" height="45" width="45" /> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="Skills/tailwindcss.png" alt="tailwindcss" height="40" width="50" /> 
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="Skills/bootstrap.png" alt="bootstrap" height="40" width="50" /> 
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="Skills/nodejs.png" alt="nodejs" height="45" width="45" /> 
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="Skills/vs.svg" alt="visual studio" height="45" width="45" />
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="Skills/vsc.svg" alt="visual studio code" height="45" width="45" />
     <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="Skills/intellij.png" alt="intellij" height="45" width="45" />
 </p>
 
 ### applications:
 <p align="center">
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="Skills/after effects.png" alt="after effects" height="50" width="50" /> 
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="Skills/premierpro.png" alt="premier pro" height="50" width="50" /> 
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="Skills/photoshop.png" alt="photoshop" height="50" width="50" /> 
   <a href="https://figma.com/" target="_blank" rel="noreferrer"><img src="Skills/figma-1-logo-svg-vector.svg" alt="figma" height="40" width="40" /> 
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://github.com/itswindee/itswindee/assets/113081325/c9aa0d9d-f288-41ae-ad24-4e99bbc16704" alt="excel" height="45" width="45" /> 
