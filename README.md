@@ -76,7 +76,6 @@ if __name__ == "__main__":
 <!-- language stats -->
 <div align="center">
   <a href="https://github.com/itswindee/github-readme-stats"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=itswindee&layout=compact"/></a>
-  
 </div>
 
 
