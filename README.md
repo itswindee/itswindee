@@ -25,7 +25,7 @@
 
  - 🍙 current working on: web development bootcamp
  - 🍣 interested in: full stack development, data science, & information technology
- - 🍥 currently obsessed with data science 💙
+ - 🍥 currently obsessed with web dev & data science 💙
  - 🍱 i love to learn new things and build amazing stuff ✈️
  - 💬 ask me about anything!
 
