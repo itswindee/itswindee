@@ -60,7 +60,7 @@ class Emily:
       }
     def get_contacts(self):
         return {
-            "email": "ezhu1@students.kennesaw.edu",
+            "email": "ezhu0922@gmail.com",
             "linkedin": "linkedin.com/in/emilyxzhu",
             "github": "github.com/itswindee",
         }
