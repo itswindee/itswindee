@@ -76,12 +76,11 @@ if __name__ == "__main__":
 <!-- language stats -->
 <div align="center">
   
-  ![itswindee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itswindee&theme=outrun&show_icons=true&hide_border=true&layout=compact)
+![](https://streak-stats.demolab.com?user=itswindee&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=itswindee&layout=compact&theme=transparent&hide_border=true)
   
 </div>
 
-![itswindee's Stats](https://github-readme-stats.vercel.app/api?username=itswindee&theme=outrun&show_icons=true&hide_border=true&count_private=true)
-![itswindee's Streak](https://github-readme-streak-stats.herokuapp.com/?user=itswindee&theme=outrun&hide_border=true)
 
 
 
