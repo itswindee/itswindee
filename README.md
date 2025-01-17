@@ -20,7 +20,7 @@
 
 <!-- about me -->
 <p align="center">
-  <h3> i'm 21 years old software developer from atlanta, ga</h3>
+  <h3> i'm 22 years old software developer from atlanta, ga</h3>
 </p>
 
  - 🍙 current working on: web development bootcamp
@@ -30,7 +30,7 @@
  - 💬 ask me about anything!
 
  <p align="center">
-  <h4> software developer | gamer | esports | coach | musician  </h4>
+  <h4> software developer | gamer | esports | coach  </h4>
    </p>
 
 <!-- extra spaces -->
