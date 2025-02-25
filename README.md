@@ -1,4 +1,4 @@
-<!-- my introduction -->
+ <!-- my introduction -->
 <div align="center">
   <h1> hi, i'm emily! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 </div>
@@ -24,7 +24,7 @@
 </p>
 
  - 🍙 current working on: web development bootcamp
- - 🍣 interested in: full stack development, data science, & information technology
+ - 🍣 interested in: full stack development & data science
  - 🍥 currently obsessed with web dev & data science 💙
  - 🍱 i love to learn new things and build amazing stuff ✈️
  - 💬 ask me about anything!
