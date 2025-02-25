@@ -30,7 +30,7 @@
  - 💬 ask me about anything!
 
  <p align="center">
-  <h4> software developer | gamer | esports | coach  </h4>
+  <h4> software developer | data analyst | gamer | esports | coach  </h4>
    </p>
 
 <!-- extra spaces -->
