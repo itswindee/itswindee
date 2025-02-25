@@ -56,7 +56,7 @@ class Emily:
             "video editing": ["Sony Vegas Pro", "DaVinci Resolve"],
             "database": ["Excel", "Google Sheets", "R Studio", "Microsoft PowerBi", "Microsoft SQL Server"],
             "cloud": ["Microsoft Azure", "VMware"],
-            "applications": ["Microsoft Office Suite"]
+            "applications": ["Microsoft Office Suite", "Sharepoint"]
       }
     def get_contacts(self):
         return {
